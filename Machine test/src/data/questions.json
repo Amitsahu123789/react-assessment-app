@@ -1,0 +1,88 @@
+
+[
+  {
+    "id": 1,
+    "question": "Which method transforms every item in an array?",
+    "options": ["filter()", "map()", "find()", "some()"],
+    "correctAnswer": "map()"
+  },
+  {
+    "id": 2,
+    "question": "Which React hook manages component state?",
+    "options": ["useEffect", "useState", "useRef", "useMemo"],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 3,
+    "question": "Why do we use useReducer?",
+    "options": [
+      "For CSS styling",
+      "For managing state with a reducer",
+      "For creating HTML",
+      "For database connections"
+    ],
+    "correctAnswer": "For managing state with a reducer"
+  },
+  {
+    "id": 4,
+    "question": "Which method converts JSON text into a JavaScript object?",
+    "options": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.convert()",
+      "JSON.object()"
+    ],
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "id": 5,
+    "question": "Which hook handles side effects in React?",
+    "options": ["useEffect", "useId", "useContext", "useMemo"],
+    "correctAnswer": "useEffect"
+  },
+  {
+    "id": 6,
+    "question": "What is localStorage used for?",
+    "options": [
+      "Persistent browser storage",
+      "CSS styling",
+      "Creating components",
+      "Compiling JavaScript"
+    ],
+    "correctAnswer": "Persistent browser storage"
+  },
+  {
+    "id": 7,
+    "question": "Which method returns a new array containing matching items?",
+    "options": ["reduce()", "filter()", "forEach()", "push()"],
+    "correctAnswer": "filter()"
+  },
+  {
+    "id": 8,
+    "question": "Why does React use a key when rendering lists?",
+    "options": [
+      "To set font size",
+      "To identify list items",
+      "To save passwords",
+      "To connect a database"
+    ],
+    "correctAnswer": "To identify list items"
+  },
+  {
+    "id": 9,
+    "question": "Which HTTP method is commonly used to retrieve API data?",
+    "options": ["POST", "DELETE", "GET", "PATCH"],
+    "correctAnswer": "GET"
+  },
+  {
+    "id": 10,
+    "question": "What does the useEffect dependency array control?",
+    "options": [
+      "CSS properties",
+      "When the effect runs again",
+      "HTML elements",
+      "Database tables"
+    ],
+    "correctAnswer": "When the effect runs again"
+  }
+]
